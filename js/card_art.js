@@ -64,7 +64,7 @@ window.onload = function() {
   const cardOnly = document.getElementById("form_cardOnly");
 
   // Const arrays for lookup
-  const cardClasses = ["Neutralo", "Forestcraft", "Swordcraft", "Runecraft", "Dragoncraft", "Shadowcraft", "Bloodcraft", "Havencraft", "Portalcraft"];
+  const cardClasses = ["Neutralo", "Forestcraft", "Swordcraft", "Runecraft", "Dragoncraft", "Shadowcraft", "Bloodcraft", "Havencraft", "Portalcraft", "a"];
   const cardTypes = ["follower", "amulet", "spell"];
   const cardRarities = ["legendary", "gold", "silver", "bronze"];
 
