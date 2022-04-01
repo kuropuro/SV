@@ -82,7 +82,7 @@ window.onload = function() {
     document.body.classList.toggle("darkmode");
     if (document.body.classList.contains("darkmode") == true) {
       theme = "dark";
-      themeButton.innerHTML = "Switch to light mode";
+      themeButton.innerHTML = "Switch to light ";
     } else {
       theme = "light";
       themeButton.innerHTML = "Switch to dark mode";
